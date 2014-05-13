@@ -1,0 +1,18 @@
+#
+# generated on 2014/05/12 08:29:55
+#
+# --table-start--
+dataClass=de.mrapps.dre.db.dao.Symptom
+tableName=symptome
+# --table-fields-start--
+# --field-start--
+fieldName=id
+id=true
+# --field-end--
+# --field-start--
+fieldName=bezeichnung
+unique=true
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################
